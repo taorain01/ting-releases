@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3.6",
-  "versionCode": 10306,
-  "releaseNotes": "Sua luong Them tai khoan: sau khi chon dich vu, man hinh dung dung o o dan nhanh (khong bi keo xuong).",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.6.apk",
-  "apkSize": 11146956,
-  "apkSha256": "6df948d6081000a90196d12aee8159893a7e906f16697fb995ace7cde779b42e",
+  "latestVersion": "1.3.7",
+  "versionCode": 10307,
+  "releaseNotes": "Sua nut cap nhat Android: khong con bao thieu kich thuoc file; xac minh ban tai bang SHA-256, kich thuoc chi la kiem tra phu.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.7.apk",
+  "apkSize": 11147072,
+  "apkSha256": "4622f478444994a1b7e2d37b284fd3b0d35b2baab9a383d73944f262a994e927",
   "minSupportedVersion": 1
 }
