@@ -2,7 +2,7 @@
   "latestVersion": "1.3.5",
   "versionCode": 10305,
   "releaseNotes": "Hotfix mobile download redirect/timeout and refreshed Windows installer UI.",
-  "apkUrl": "https://github.com/taorain01/ting-releases/releases/download/v1.3.5/Ting-1.3.5.apk",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.5.apk",
   "apkSize": 11146744,
   "apkSha256": "2ac32b3f5cfe1456f9f513f094c885aa969e9d34096312ceb4fceb9a55519d60",
   "minSupportedVersion": 1
