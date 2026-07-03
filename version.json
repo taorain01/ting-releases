@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3.0",
-  "versionCode": 3,
-  "releaseNotes": "Ting! phiên bản 1.3.0",
-  "apkUrl": "https://github.com/taorain01/ting-releases/releases/download/v1.3.0/Ting-1.3.0.apk",
-  "apkSize": 11095932,
-  "apkSha256": "eeb4db26f75d27dff7a79649abd50d83d371cdc88cf11aedabda59c620f7c8cc",
+  "latestVersion": "1.3.1",
+  "versionCode": 10301,
+  "releaseNotes": "Ting! phi\u00ean b\u1ea3n 1.3.1",
+  "apkUrl": "https://github.com/taorain01/ting-releases/releases/download/v1.3.1/Ting-1.3.1.apk",
+  "apkSize": 7230463,
+  "apkSha256": "781be9bae492ec6a7db25291f66e7de8faff3b58d2cf440388793de69f70b0f5",
   "minSupportedVersion": 1
 }
