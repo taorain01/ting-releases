@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3.5",
-  "versionCode": 10305,
-  "releaseNotes": "Hotfix mobile download redirect/timeout and refreshed Windows installer UI.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.5.apk",
-  "apkSize": 11146744,
-  "apkSha256": "2ac32b3f5cfe1456f9f513f094c885aa969e9d34096312ceb4fceb9a55519d60",
+  "latestVersion": "1.3.6",
+  "versionCode": 10306,
+  "releaseNotes": "Sua luong Them tai khoan: sau khi chon dich vu, man hinh dung dung o o dan nhanh (khong bi keo xuong).",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.6.apk",
+  "apkSize": 11146956,
+  "apkSha256": "6df948d6081000a90196d12aee8159893a7e906f16697fb995ace7cde779b42e",
   "minSupportedVersion": 1
 }
