@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.4.1",
-  "versionCode": 10401,
-  "releaseNotes": "Cai thien giao dien cap nhat, version badge va installer.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.1.apk",
-  "apkSize": 14389598,
-  "apkSha256": "6bcc1f34b15253b75195530ba58d9caf07530e8cd0a2d38df8913a0bb0b8bb10",
+  "latestVersion": "1.4.2",
+  "versionCode": 10402,
+  "releaseNotes": "Nhom: mat khau chung thanh tuy chon (chi hoi khi chu nhom dat), them tab Cai dat de dat/doi/go mat khau. Cai thien giao dien nhom tren mobile, sua ten danh muc bi che, lam ro card gop nhieu tai khoan, click tai khoan trong bang de mo nhanh.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.2.apk",
+  "apkSize": 14390282,
+  "apkSha256": "dd8846f7de2464359aa1ddadb940941d96cb2759e158e1563c8576741c1dc491",
   "minSupportedVersion": 1
 }
