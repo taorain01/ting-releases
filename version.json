@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3.9",
-  "versionCode": 10309,
-  "releaseNotes": "Cap nhat nhom: mat khau chung tuy chon, tab cai dat nhom va cai thien giao dien nhom.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.3.9.apk",
-  "apkSize": 14380283,
-  "apkSha256": "fd1fa657d43137dd3e7e35d096b40f8dc64e3007aebedc1e9ae2c9c68362b65c",
+  "latestVersion": "1.4.0",
+  "versionCode": 10400,
+  "releaseNotes": "Cai thien giao dien nhom mobile, them man thiet ke danh muc keo tha va sua card TK mua.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.0.apk",
+  "apkSize": 14387350,
+  "apkSha256": "c8be753a0c825df2c1b46c705d6d49b6de4ab596487c4ed888331fed82ccda36",
   "minSupportedVersion": 1
 }
