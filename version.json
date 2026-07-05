@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.4.0",
-  "versionCode": 10400,
-  "releaseNotes": "Cai thien giao dien nhom mobile, them man thiet ke danh muc keo tha va sua card TK mua.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.0.apk",
-  "apkSize": 14387350,
-  "apkSha256": "c8be753a0c825df2c1b46c705d6d49b6de4ab596487c4ed888331fed82ccda36",
+  "latestVersion": "1.4.1",
+  "versionCode": 10401,
+  "releaseNotes": "Cai thien giao dien cap nhat, version badge va installer.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.1.apk",
+  "apkSize": 14389598,
+  "apkSha256": "6bcc1f34b15253b75195530ba58d9caf07530e8cd0a2d38df8913a0bb0b8bb10",
   "minSupportedVersion": 1
 }
