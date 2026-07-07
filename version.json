@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.4.3",
-  "versionCode": 10403,
-  "releaseNotes": "Them nut Hien thi tai khoan het han (desktop + mobile): bat/tat hien thi tai khoan het han, lam mo va xep xuong duoi; nhom Thung rac theo nen tang tren desktop.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.3.apk",
-  "apkSize": 14398972,
-  "apkSha256": "f5260bd267fcf43f9b9b783b3d9aec23d66198c27a89a2e295d2827f4b46fefd",
+  "latestVersion": "1.5.0",
+  "versionCode": 10500,
+  "releaseNotes": "Ban 1.5.0: cai tien tinh nang nhom (group) va cac chinh sua giao dien.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.5.0.apk",
+  "apkSize": 14408905,
+  "apkSha256": "5067459f6ac5e81fc149e3dc1d49ee6dfa8916ad2dd37f48193cf1969f89fe1e",
   "minSupportedVersion": 1
 }
