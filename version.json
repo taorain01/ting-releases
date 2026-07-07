@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.4.2",
-  "versionCode": 10402,
-  "releaseNotes": "Nhom: mat khau chung thanh tuy chon (chi hoi khi chu nhom dat), them tab Cai dat de dat/doi/go mat khau. Cai thien giao dien nhom tren mobile, sua ten danh muc bi che, lam ro card gop nhieu tai khoan, click tai khoan trong bang de mo nhanh.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.2.apk",
-  "apkSize": 14390282,
-  "apkSha256": "dd8846f7de2464359aa1ddadb940941d96cb2759e158e1563c8576741c1dc491",
+  "latestVersion": "1.4.3",
+  "versionCode": 10403,
+  "releaseNotes": "Them nut Hien thi tai khoan het han (desktop + mobile): bat/tat hien thi tai khoan het han, lam mo va xep xuong duoi; nhom Thung rac theo nen tang tren desktop.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.4.3.apk",
+  "apkSize": 14398972,
+  "apkSha256": "f5260bd267fcf43f9b9b783b3d9aec23d66198c27a89a2e295d2827f4b46fefd",
   "minSupportedVersion": 1
 }
