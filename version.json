@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.5.0",
-  "versionCode": 10500,
-  "releaseNotes": "Ban 1.5.0: cai tien tinh nang nhom (group) va cac chinh sua giao dien.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.5.0.apk",
-  "apkSize": 14408905,
-  "apkSha256": "5067459f6ac5e81fc149e3dc1d49ee6dfa8916ad2dd37f48193cf1969f89fe1e",
+  "latestVersion": "1.5.1",
+  "versionCode": 10501,
+  "releaseNotes": "Hotfix nhom: cai thien dong bo tai khoan chia se, cap nhat giao dien va xu ly nhom on dinh hon.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.5.1.apk",
+  "apkSize": 14410839,
+  "apkSha256": "4135c20e64e9dac00d4f6a0c6bbd8ab1529e46833c1e5c94176254786730ddd1",
   "minSupportedVersion": 1
 }
