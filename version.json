@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.5.1",
-  "versionCode": 10501,
-  "releaseNotes": "Hotfix nhom: cai thien dong bo tai khoan chia se, cap nhat giao dien va xu ly nhom on dinh hon.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.5.1.apk",
-  "apkSize": 14410839,
-  "apkSha256": "4135c20e64e9dac00d4f6a0c6bbd8ab1529e46833c1e5c94176254786730ddd1",
+  "latestVersion": "1.6.0",
+  "versionCode": 10600,
+  "releaseNotes": "Toi gian form them tai khoan, them form dan nhanh va lich su theo nen tang.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.6.0.apk",
+  "apkSize": 14422750,
+  "apkSha256": "2cbeae2a091e85df13e65a3b5b0fb59d03fbe402bf62e0925581380e049e4330",
   "minSupportedVersion": 1
 }
