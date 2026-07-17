@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.7.0",
-  "versionCode": 10700,
-  "releaseNotes": "Them bang lich su phien ban; nang cap backup restore, dialog, UX PC mobile va bao mat.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.7.0.apk",
-  "apkSize": 14447353,
-  "apkSha256": "82e2323f5400cac75a4d6ff13e1989d9f10f638c7253fa545db14e464f3db789",
+  "latestVersion": "1.7.1",
+  "versionCode": 10701,
+  "releaseNotes": "Them muc chi tieu, bieu do va quy doi ty gia theo giao dich.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.7.1.apk",
+  "apkSize": 14466074,
+  "apkSha256": "2b717094e250036029cdf41aa286450596e8663b004bfed949f734903ba87ff2",
   "minSupportedVersion": 1
 }
