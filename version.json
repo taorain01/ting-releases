@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.6.0",
-  "versionCode": 10600,
-  "releaseNotes": "Toi gian form them tai khoan, them form dan nhanh va lich su theo nen tang.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.6.0.apk",
-  "apkSize": 14422750,
-  "apkSha256": "2cbeae2a091e85df13e65a3b5b0fb59d03fbe402bf62e0925581380e049e4330",
+  "latestVersion": "1.7.0",
+  "versionCode": 10700,
+  "releaseNotes": "Them bang lich su phien ban; nang cap backup restore, dialog, UX PC mobile va bao mat.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.7.0.apk",
+  "apkSize": 14447353,
+  "apkSha256": "82e2323f5400cac75a4d6ff13e1989d9f10f638c7253fa545db14e464f3db789",
   "minSupportedVersion": 1
 }
