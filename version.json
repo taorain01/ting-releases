@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.7.1",
-  "versionCode": 10701,
-  "releaseNotes": "Them muc chi tieu, bieu do va quy doi ty gia theo giao dich.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.7.1.apk",
-  "apkSize": 14466074,
-  "apkSha256": "2b717094e250036029cdf41aa286450596e8663b004bfed949f734903ba87ff2",
+  "latestVersion": "1.7.3",
+  "versionCode": 10703,
+  "releaseNotes": "Stabilize group tabs, remove duplicate page animations, and improve the expense timeline chart.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-1.7.3.apk",
+  "apkSize": 14476240,
+  "apkSha256": "db8192d7bf66f9d3f188a9fdc6c2879e8076cdee6574534ee4435b50d0523c65",
   "minSupportedVersion": 1
 }
