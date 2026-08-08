@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.0.1",
-  "versionCode": 20001,
-  "releaseNotes": "Ting! 2.0.1 gộp toàn bộ thay đổi 2.0.0 chưa từng phát hành công khai kể từ v1.7.3.\n\n## Bảo mật và dữ liệu\n\n- Nâng dữ liệu chia sẻ lên mã hóa phong bì với khóa riêng theo người dùng/nhóm, secure storage trên thiết bị, dual-read/dual-write và migration nhiều bước có xác minh.\n- Không còn ghi credential rỗng đè dữ liệu chia sẻ, không cache lần giải mã lỗi và luôn đọc lại bản mã vừa tạo trước khi lưu.\n- Phân biệt lỗi sai khóa với lỗi dẫn xuất hoặc dữ liệu hỏng để tránh khóa nhầm người dùng khỏi dữ liệu hợp lệ.\n- Siết Firestore Rules, loại bỏ Join Password không có hiệu lực phía server và mã hóa lịch sử nhập nhanh có ghi chú, người bán hoặc giá.\n- Đổi mật khẩu nhóm bằng cách bọc lại khóa nhóm; khi xóa thành viên, Ting! xoay khóa và mã hóa lại dữ liệu để thu hồi quyền đọc trong tương lai.\n- Thêm cơ chế kích hoạt/đổi khóa bảo vệ cá nhân, trạng thái chờ chủ nhóm cấp khóa, xác thực lại và timeout an toàn cho thao tác nhạy cảm.\n\n## Giao diện và tính năng\n\n- Thiết kế lại chi tiết tài khoản trên PC/mobile với khu bí mật, ghi chú, người bán, thời hạn/thanh toán, tag/danh mục và gia hạn nhanh; giữ nguyên hiện/ẩn, sao chép, TOTP, sửa nhanh, chia sẻ và xóa.\n- Tìm kiếm thông minh theo tên, tài khoản, shop, link, ghi chú, nền tảng, trạng thái và giá; hỗ trợ `dưới 100k`, `>= 50k`, `50k-100k`, xếp theo độ liên quan và hiện lý do khớp.\n- Cải thiện Chi tiêu với biểu đồ dễ đọc hơn, thống kê phân bổ, giao dịch nhóm theo ngày, liên kết về tài khoản và thao tác sửa/xóa/khôi phục gọn hơn.\n- Đồng bộ token giao diện, bộ chọn kiểu hiển thị, animation và chuyển cảnh PC/mobile; giảm số lần vẽ lại, hạn chế nháy khi đổi tab/nhóm và cải thiện popover, tooltip, responsive.\n\n## Chất lượng\n\n- Bổ sung test cho mã hóa, migration, Rules, xoay khóa nhóm, UI chi tiết, tìm kiếm thông minh, animation và số lần vẽ lại.\n- Đồng bộ phiên bản Windows/Android lên 2.0.1; Android versionCode 20001.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.0.1.apk",
-  "apkSize": 14644447,
-  "apkSha256": "4c88efb0c091bc726088e17b14d4d79c9367a0f6e76bc819256b6f4d26d43c9a",
+  "latestVersion": "2.1.0",
+  "versionCode": 20100,
+  "releaseNotes": "Ty gia tu dong, bulk account, dieu huong va thong bao chi tiet.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.1.0.apk",
+  "apkSize": 14711304,
+  "apkSha256": "9d7db01b6c970872aed0b128ad1751e9ae44b58c16f073e8b1798a26529e4a37",
   "minSupportedVersion": 1
 }
