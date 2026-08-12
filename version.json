@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.1.0",
-  "versionCode": 20100,
-  "releaseNotes": "Ty gia tu dong, bulk account, dieu huong va thong bao chi tiet.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.1.0.apk",
-  "apkSize": 14711304,
-  "apkSha256": "9d7db01b6c970872aed0b128ad1751e9ae44b58c16f073e8b1798a26529e4a37",
+  "latestVersion": "2.2.0",
+  "versionCode": 20200,
+  "releaseNotes": "Native floating account window with saved size and position; browser extension removed.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.2.0.apk",
+  "apkSize": 14722577,
+  "apkSha256": "90b3f78b8ea47bdc451444ad7909cdb88e316b2b3a6dbf34b3e537d62edf7c5d",
   "minSupportedVersion": 1
 }
