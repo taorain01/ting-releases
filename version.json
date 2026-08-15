@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.2.0",
-  "versionCode": 20200,
-  "releaseNotes": "Native floating account window with saved size and position; browser extension removed.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.2.0.apk",
-  "apkSize": 14722577,
-  "apkSha256": "90b3f78b8ea47bdc451444ad7909cdb88e316b2b3a6dbf34b3e537d62edf7c5d",
+  "latestVersion": "2.3.0",
+  "versionCode": 20300,
+  "releaseNotes": "Tự động tải, xác minh và cài bản cập nhật Windows ở lần khởi động tiếp theo.\nThêm cửa sổ tài khoản nổi native trên Android và cải thiện cửa sổ nổi desktop.\nThêm chế độ dùng cục bộ không cần đăng nhập, có thể chuyển dữ liệu một chiều lên cloud.\nMở rộng icon ngân hàng/dịch vụ AI và cải thiện giao diện Cài đặt, Nhóm, biểu mẫu mobile.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.0.apk",
+  "apkSize": 15151688,
+  "apkSha256": "dd9e41ceb4d75d67f6e5e2b9185f1c2ff2d7d8783ffc4aa9f716fb3fa607cdd4",
   "minSupportedVersion": 1
 }
