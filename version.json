@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.3.1",
-  "versionCode": 20301,
-  "releaseNotes": "Account conflict checks, floating account redesign, and remembered window position.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.1.apk",
-  "apkSize": 15440721,
-  "apkSha256": "c854958fcad19d6d638bec8fa502f3a30d8f56e315c7d52e0b0b3cae26c83789",
+  "latestVersion": "2.3.2",
+  "versionCode": 20302,
+  "releaseNotes": "Sua dan thong minh, nhap nhanh Android va cap nhat PC an toan.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.2.apk",
+  "apkSize": 15448163,
+  "apkSha256": "44ddf5276f0f7a88678ba9a0606f67aee5bd70d56577e198793c87bb98ddce05",
   "minSupportedVersion": 1
 }
