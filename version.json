@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.3.3",
-  "versionCode": 20303,
-  "releaseNotes": "Clipboard credential detection and one-click add form autofill.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.3.apk",
-  "apkSize": 15389442,
-  "apkSha256": "f356d91ec8bedc46c50169e85a57c8c9a25b04a3c4114646d2c542e680853640",
+  "latestVersion": "2.3.4",
+  "versionCode": 20304,
+  "releaseNotes": "Fix desktop update installation and improve unified account vault.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.4.apk",
+  "apkSize": 15480981,
+  "apkSha256": "2c7c9bce933e3b56555e1346f40f1c2c52980c924f70906809dcfd541c5c7450",
   "minSupportedVersion": 1
 }
