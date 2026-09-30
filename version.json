@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.3.7",
-  "versionCode": 20307,
-  "releaseNotes": "Two-scope account spaces, sidebar polish, platform icon updates, and Android startup update status.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.7.apk",
-  "apkSize": 15524743,
-  "apkSha256": "b9a87fb9600df12f03257a525b2c559f2f5fcc1598fb9641da1906fce7f76810",
+  "latestVersion": "2.3.8",
+  "versionCode": 20308,
+  "releaseNotes": "Fix clipboard add cancel and add bulk import nhanh.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.8.apk",
+  "apkSize": 15383549,
+  "apkSha256": "a3c66e9bdc83d3a723d1a95c2e5acf4d7f7ed9a6c3dcecbb295ccadd249559e4",
   "minSupportedVersion": 1
 }
