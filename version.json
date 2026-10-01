@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.3.8",
-  "versionCode": 20308,
-  "releaseNotes": "Fix clipboard add cancel and add bulk import nhanh.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.8.apk",
-  "apkSize": 15383549,
-  "apkSha256": "a3c66e9bdc83d3a723d1a95c2e5acf4d7f7ed9a6c3dcecbb295ccadd249559e4",
+  "latestVersion": "2.3.9",
+  "versionCode": 20309,
+  "releaseNotes": "Việt hóa đầy đủ khu vực cập nhật trên PC và Android.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.9.apk",
+  "apkSize": 15383789,
+  "apkSha256": "209be391dc87efe4d36411c71b45ea5488dbb07db1b56f752131c7ed50a55e3e",
   "minSupportedVersion": 1
 }
