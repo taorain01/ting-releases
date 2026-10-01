@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.3.9",
-  "versionCode": 20309,
-  "releaseNotes": "Việt hóa đầy đủ khu vực cập nhật trên PC và Android.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.3.9.apk",
-  "apkSize": 15383789,
-  "apkSha256": "209be391dc87efe4d36411c71b45ea5488dbb07db1b56f752131c7ed50a55e3e",
+  "latestVersion": "2.4.0",
+  "versionCode": 20400,
+  "releaseNotes": "Gộp Không gian tài khoản và Nhóm; thêm công cụ ghi chú gọn, đồng bộ nút thêm tài khoản và bổ sung nền tảng AI mới.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.4.0.apk",
+  "apkSize": 15385398,
+  "apkSha256": "9e2c41602cd8df09ac937385cac4c7e5e3518b545138f75051cd2e6c64000960",
   "minSupportedVersion": 1
 }
