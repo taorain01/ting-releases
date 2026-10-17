@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.4.3",
-  "versionCode": 20403,
-  "releaseNotes": "Mở rộng hơn 90 nền tảng AI và biểu tượng chính hãng — Thêm Muse AI cùng hơn 65 nền tảng AI mới (video, ảnh, 3D, lập trình, giọng nói, âm nhạc, nghiên cứu, viết lách và tự động hóa). Cập nhật bộ biểu tượng màu chính hãng cho hơn 90 nền tảng AI trên cả PC và Android. Mở rộng nhận diện tên miền, alias và danh sách chọn nhanh nền tảng AI trong form thêm tài khoản.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.4.3.apk",
-  "apkSize": 15873628,
-  "apkSha256": "2facf7a468d7b62280cdcf8d65cc67991cf006018ab2fe00d5fc933b4d43f720",
+  "latestVersion": "2.4.4",
+  "versionCode": 20404,
+  "releaseNotes": "Bo 5 anh nen 3D lua mo, nut Them Tai Khoan 3D va 9 hieu ung bam chuot.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.4.4.apk",
+  "apkSize": 18234100,
+  "apkSha256": "01bad9aca26ff2d2a571543a035c4337b53e3618d1adf4105154951b553af10c",
   "minSupportedVersion": 1
 }
