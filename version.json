@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.4.4",
-  "versionCode": 20404,
-  "releaseNotes": "Bo 5 anh nen 3D lua mo, nut Them Tai Khoan 3D va 9 hieu ung bam chuot.",
-  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.4.4.apk",
-  "apkSize": 18234100,
-  "apkSha256": "01bad9aca26ff2d2a571543a035c4337b53e3618d1adf4105154951b553af10c",
+  "latestVersion": "2.4.5",
+  "versionCode": 20405,
+  "releaseNotes": "Thêm tab Công việc (lịch đăng kênh YouTube, hẹn giờ nhắc làm video hằng ngày, tự động đồng bộ lịch công khai từ RainderPlaylist) và tinh gọn điều hướng Cá nhân / Nhóm.",
+  "apkUrl": "https://raw.githubusercontent.com/taorain01/ting-releases/main/Ting-2.4.5.apk",
+  "apkSize": 18307557,
+  "apkSha256": "2346154eb5f0cb6bc3d00e05ae10c6eaf3bc67a399e91aefe5a382c97a73d0c0",
   "minSupportedVersion": 1
 }
